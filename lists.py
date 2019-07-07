@@ -8,3 +8,7 @@ family_members = ["Debbie", "Rick", "Kendall", "Ricky"]
 print(my_list)
 
 print(family_members)
+
+my_list.append("Trigger")
+
+print(my_list)
